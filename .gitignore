@@ -1,0 +1,9 @@
+# Directories
+
+bin/
+obj/
+.vscode
+
+# Files
+Makefile
+*.make
