@@ -18,8 +18,6 @@ project "Engine"
 
     links
     {
-        "GL",
-        "glfw"
     }
 
     filter "configurations:Debug"

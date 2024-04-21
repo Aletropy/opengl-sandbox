@@ -19,9 +19,7 @@ project "Sandbox"
 
     links
     {
-        "Engine",
-        "GL",
-        "glfw"
+        "Engine"
     }
 
     filter "configurations:Debug"
